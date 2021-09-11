@@ -5,4 +5,4 @@ def twenty_twenty_one():
     >>> twenty_twenty_one()
     2021
     """
-    return 50 * 50 - 479
+    return 50 * 51 - 529
